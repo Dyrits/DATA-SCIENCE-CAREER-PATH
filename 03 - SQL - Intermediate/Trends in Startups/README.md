@@ -4,7 +4,7 @@
 
 ### Related course
 [CODE]CADEMY PRO | DATA SCIENCE CAREER PATH PROJECTS: 3. SQL: Intermediate   
-Introduction to SQL
+Aggregate Functions
 
 ### Description of the project by [CODE]CADEMY PRO
 Howdy! It’s your first day as a [TechCrunch](https://techcrunch.com/) reporter. Your first task is to write an article on the rising trends in the startup world.
