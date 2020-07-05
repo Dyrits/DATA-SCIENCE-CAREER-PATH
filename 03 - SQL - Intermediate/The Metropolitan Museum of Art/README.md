@@ -37,5 +37,5 @@ This queries have been made following specific instructions from the related cou
 Completed
 
 #### Last update
-08/06/2020
-(README | 08/06/2020)
+05/07/2020  
+(README | 05/7/2020)
