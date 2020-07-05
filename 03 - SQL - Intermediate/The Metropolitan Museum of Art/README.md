@@ -8,6 +8,7 @@ Aggregate Functions
 
 ## Description (from [code]cademy / PRO)
 ![MET](https://i.imgur.com/SiWlHHW.jpg?1)
+
 [The Metropolitan Museum of Art](https://www.metmuseum.org/) of New York is one of the world’s largest and finest art museums.
 
 In this project, you will be working with a table named `met` that contains the museum’s collection of American Decorative Arts.
