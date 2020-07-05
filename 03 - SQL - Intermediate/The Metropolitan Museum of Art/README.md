@@ -31,8 +31,7 @@ Let’s get started!
 - SQLite  
 
 ### Details | Comments
-This project has been made following specific instructions.  
-The table use 
+This queries have been made following specific instructions. 
 
 ### Status
 Completed
