@@ -3,10 +3,10 @@
 ## About this project
 
 ### Related course
-[CODE]CADEMY PRO | DATA SCIENCE CAREER PATH PROJECTS: 3. SQL: Intermediate   
+[code]cademy / PRO | Data Science  ~ 3. SQL: Intermediate   
 Aggregate Functions
 
-## Description (from [CODE]CADEMY PRO)
+## Description (from [code]cademy / PRO)
 ![MET](https://i.imgur.com/SiWlHHW.jpg?1)
 [The Metropolitan Museum of Art](https://www.metmuseum.org/) of New York is one of the world’s largest and finest art museums.
 
@@ -31,7 +31,7 @@ Let’s get started!
 - SQLite  
 
 ### Details | Comments
-This queries have been made following specific instructions. 
+This queries have been made following specific instructions from the related course. 
 
 ### Status
 Completed
